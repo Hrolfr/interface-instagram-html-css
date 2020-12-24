@@ -9,8 +9,6 @@ From Digital Innovation One (DIO) Bootcamp: Javascript Game Developer .Exercise:
 
 Vem do Bootcamp: Javascript Game Developer da Digital Innovation One (DIO). Atividade/exercício: Recriando a página inicial do instagram com HTML e CSS.
 
-<img src="https://imgur.com/7xit7nq" alt="result">
-
 (EN) Reference / (PT-BR) Referência:
 
 https://web.digitalinnovation.one/lab/recriando-a-pagina-inicial-do-instagram/learning/35838848-f99e-473c-9201-816d046ebf12
