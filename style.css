@@ -60,8 +60,9 @@ body{
       min-height: 19rem;      
 }
 
-.instagram--logo{
+.instagram-logo{
     height: 3rem;
+    margin-top: 25px;
 }
 
 .profile-photo{
@@ -81,6 +82,7 @@ body{
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    margin-top: 25px;
 }
 .instagram-logout{
     color: #0095f5;
