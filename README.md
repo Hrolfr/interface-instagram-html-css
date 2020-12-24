@@ -1,4 +1,4 @@
-# @:desktop_computer: Interface do Instagram feita com HTML e CSS @:desktop_computer:
+# :desktop_computer: Interface do Instagram feita com HTML e CSS :desktop_computer:
 (EN)
 
 From Digital Innovation One (DIO) Bootcamp: Javascript Game Developer .Exercise: Recriando a página inicial do Instagram.Made with HTML and CSS.
