@@ -11,7 +11,7 @@ Vem do Bootcamp: Javascript Game Developer da Digital Innovation One (DIO). Ativ
 
 
 
-[https://i.imgur.com/7xit7nq.png](https://i.imgur.com/7xit7nq.png))
+![]([Imgur](https://i.imgur.com/7xit7nq.png))
 
 
 
