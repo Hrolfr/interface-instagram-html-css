@@ -7,7 +7,7 @@ From Digital Innovation One (DIO) Bootcamp: Javascript Game Developer .Exercise:
 
 (PT-BR)
 
-Vem do Bootcamp: Javascript Game Developer da Digital Innovation One (DIO). Atividade/exercício: Recriando a página inicial do instagra, com HTML e CSS.
+Vem do Bootcamp: Javascript Game Developer da Digital Innovation One (DIO). Atividade/exercício: Recriando a página inicial do instagram com HTML e CSS.
 
 (EN) Reference / (PT-BR) Referência:
 
