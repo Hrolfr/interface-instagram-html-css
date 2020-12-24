@@ -11,7 +11,7 @@ Vem do Bootcamp: Javascript Game Developer da Digital Innovation One (DIO). Ativ
 
 
 
-![](C:\Users\Sales\programming\interface-instagram-html-css\img\Captura de tela 2020-12-24 135250.png)
+[https://i.imgur.com/7xit7nq.png](https://i.imgur.com/7xit7nq.png))
 
 
 
