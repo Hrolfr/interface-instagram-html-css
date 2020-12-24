@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<!-- saved from url=(0089)file:///C:/Users/Sales/programming/interface-instagram-html-css/interface-instagram.html# -->
+<!-- saved from url=(0088)file:///C:/Users/Sales/programming/interface-instagram-html-css/interface-instagram.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
       
      <meta name="viewpoint" content="width-device-width, initial-scale=1.0">         
-     <link rel="stylesheet" href="./print-interface-instagram.html#_files/style.css">
+     <link rel="stylesheet" href="./interface-instagram_files/style.css">
     
 </head>
 
@@ -12,13 +12,13 @@
    
     <div class="instagram-wrapper"> 
        <div class="instagram-phone">
-        <img src="./print-interface-instagram.html#_files/phone-instagram.png" alt="celular">
+        <img src="./interface-instagram_files/phone-instagram.png" alt="celular">
         </div>
        <div class="instagram-continue">
            <div class="div-group">
-               <img src="./print-interface-instagram.html#_files/instagram-logo-2.png" class="instagram-logo" alt="logo">
+               <img src="./interface-instagram_files/instagram-logo-2.png" class="instagram-logo" alt="logo">
             <div class="profile-photo">
-                <img src="./print-interface-instagram.html#_files/perfil-instagram.png" alt="foto de perfil">
+                <img src="./interface-instagram_files/perfil-instagram.png" alt="foto de perfil">
             </div>
             <a href="file:///C:/Users/Sales/programming/interface-instagram-html-css/interface-instagram.html#" class="instagram-login"> Continue como sprucegabriela </a>
             <a href="file:///C:/Users/Sales/programming/interface-instagram-html-css/interface-instagram.html#" class="instagram-logout"> Remover conta </a>
